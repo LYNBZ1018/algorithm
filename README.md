@@ -27,18 +27,16 @@ note中的题号都可以在 [AcWing](https://www.acwing.com/problem/) 中搜到
 ​     
 
 * [11AcWing_AlgorithmImprovement](https://github.com/LYNBZ1018/algorithm/tree/master/11AcWing_AlgorithmImprovement)___算法提高&nbsp;&nbsp;&nbsp;&nbsp;[Gitee](https://gitee.com/lynbz1018/algorithm/tree/master/11AcWing_AlgorithmImprovement)
+   * [DP](https://github.com/LYNBZ1018/algorithm/tree/master/11AcWing_AlgorithmImprovement/000DP)&nbsp;&nbsp;&nbsp;&nbsp;**[Gitee](https://gitee.com/lynbz1018/algorithm/tree/master/11AcWing_AlgorithmImprovement/000DP)**
+  * [DFS](https://github.com/LYNBZ1018/algorithm/tree/master/11AcWing_AlgorithmImprovement/001DFS)&nbsp;&nbsp;&nbsp;&nbsp;**[Gitee](https://gitee.com/lynbz1018/algorithm/tree/master/11AcWing_AlgorithmImprovement/001DFS)**
+   * [Graphs](https://github.com/LYNBZ1018/algorithm/tree/master/11AcWing_AlgorithmImprovement/010Graphs)&nbsp;&nbsp;&nbsp;&nbsp;**[Gitee](https://gitee.com/lynbz1018/algorithm/tree/master/11AcWing_AlgorithmImprovement/010Graphs)**
+   * [SeniorDataStructure](https://github.com/LYNBZ1018/algorithm/tree/master/11AcWing_AlgorithmImprovement/011SeniorDataStructure)&nbsp;&nbsp;&nbsp;&nbsp;**[Gitee](https://gitee.com/lynbz1018/algorithm/tree/master/11AcWing_AlgorithmImprovement/011SeniorDataStructure)**
+   * [Math](https://github.com/LYNBZ1018/algorithm/tree/master/11AcWing_AlgorithmImprovement/100Math)&nbsp;&nbsp;&nbsp;&nbsp;**[Gitee](https://gitee.com/lynbz1018/algorithm/tree/master/11AcWing_AlgorithmImprovement/100Math)**
+   * [BasicAlgorithm](https://github.com/LYNBZ1018/algorithm/tree/master/11AcWing_AlgorithmImprovement/101BasicAlgorithm)&nbsp;&nbsp;&nbsp;&nbsp;**[Gitee](https://gitee.com/lynbz1018/algorithm/tree/master/11AcWing_AlgorithmImprovement/101BasicAlgorithm)**
+   
 
-   * [DP](https://github.com/LYNBZ1018/algorithm/tree/master/11AcWing_AlgorithmImprovement/000DP)
+​     
 
-   *  [DFS](https://github.com/LYNBZ1018/algorithm/tree/master/11AcWing_AlgorithmImprovement/001DFS)
-
-   *  [Graphs](https://github.com/LYNBZ1018/algorithm/tree/master/11AcWing_AlgorithmImprovement/010Graphs)
-
-   *  [SeniorDataStructure](https://github.com/LYNBZ1018/algorithm/tree/master/11AcWing_AlgorithmImprovement/011SeniorDataStructure)
-
-   * [Math](https://github.co m/LYNBZ1018/algorithm/tree/master/11AcWing_AlgorithmImprovement/100Math)
-
-   * [BasicAlgorithm](https://github.com/LYNBZ1018/algorithm/tree/master/11AcWing_AlgorithmImprovement/101BasicAlgorithm)
 * [AlgorithmNote](https://github.com/LYNBZ1018/algorithm/tree/master/AlgorithmNote)___算法笔记&nbsp;&nbsp;&nbsp;&nbsp;[Gitee](https://gitee.com/lynbz1018/algorithm/tree/master/AlgorithmNote)
   * [背包九讲](https://github.com/LYNBZ1018/algorithm/blob/master/AlgorithmNote/1000%E8%83%8C%E5%8C%85%E4%B9%9D%E8%AE%B2.md)&nbsp;&nbsp;&nbsp;&nbsp;[Gitee](https://gitee.com/lynbz1018/algorithm/blob/master/AlgorithmNote/1000%E8%83%8C%E5%8C%85%E4%B9%9D%E8%AE%B2.md)
   * [闫氏DP](https://github.com/LYNBZ1018/algorithm/blob/master/AlgorithmNote/1001%E9%97%AB%E6%B0%8FDP.md)&nbsp;&nbsp;&nbsp;&nbsp;[Gitee](https://gitee.com/lynbz1018/algorithm/blob/master/AlgorithmNote/1001%E9%97%AB%E6%B0%8FDP.md)
