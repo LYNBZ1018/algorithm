@@ -1,8 +1,8 @@
 ***默认标题为GitHub  || Gitee可以点击右侧的Gitee链接***
 
-   
+​           
 
-note中的题号都可以在 **<a target="_blank" href="https://www.acwing.com/problem/">AcWing</a> **中搜到
+note中的题号都可以在 <a target="_blank" href="https://www.acwing.com/problem/">AcWing</a> 中搜到
 
 部分题有限制 需要参加相应活动才可以做题
 
@@ -12,7 +12,7 @@ note中的题号都可以在 **<a target="_blank" href="https://www.acwing.com/p
 AcWing --> 应用 --> AC Saber --> 训练模式 
 ```
 
-​        
+​          
 
 * **[DP](https://github.com/LYNBZ1018/algorithm/tree/master/11AcWing_AlgorithmImprovement/DP)**&nbsp;&nbsp;&nbsp;&nbsp;**[Gitee](https://gitee.com/lynbz1018/algorithm/tree/master/11AcWing_AlgorithmImprovement/000DP)** &nbsp;&nbsp;&nbsp;**x18**
   
