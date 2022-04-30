@@ -2,6 +2,18 @@
 
    
 
+note中的题号都可以在 **<a target="_blank" href="https://www.acwing.com/problem/">AcWing</a> **中搜到
+
+部分题有限制 需要参加相应活动才可以做题
+
+大部分题都可在下边方式中做题
+
+```markdown
+AcWing --> 应用 --> AC Saber --> 训练模式 
+```
+
+​        
+
 * **[DP](https://github.com/LYNBZ1018/algorithm/tree/master/11AcWing_AlgorithmImprovement/DP)**&nbsp;&nbsp;&nbsp;&nbsp;**[Gitee](https://gitee.com/lynbz1018/algorithm/tree/master/11AcWing_AlgorithmImprovement/000DP)** &nbsp;&nbsp;&nbsp;**x18**
   
   ```
@@ -9,8 +21,8 @@
   区间DP、树形DP、数位DP、单调队列优化DP、斜率优化DP等内容
   ```
   
-  * **[数字三角形模型](https://github.com/LYNBZ1018/algorithm/blob/master/11AcWing_AlgorithmImprovement/DP/000_%E6%95%B0%E5%AD%97%E4%B8%89%E8%A7%92%E5%9E%8B%E6%A8%A1%E5%9E%8B%20LIS%20LCS.md)**   **[最长上升子序列模型](https://github.com/LYNBZ1018/algorithm/blob/master/11AcWing_AlgorithmImprovement/DP/000_%E6%95%B0%E5%AD%97%E4%B8%89%E8%A7%92%E5%9E%8B%E6%A8%A1%E5%9E%8B%20LIS%20LCS.md)**&nbsp;&nbsp;&nbsp;&nbsp;**[Gitee](https://gitee.com/lynbz1018/algorithm/blob/master/11AcWing_AlgorithmImprovement/000DP/000_%E6%95%B0%E5%AD%97%E4%B8%89%E8%A7%92%E5%9E%8B%E6%A8%A1%E5%9E%8B%20LIS%20LCS.md)** &nbsp;&nbsp;&nbsp;**x18**
-  * **[背包模型](https://github.com/LYNBZ1018/algorithm/blob/master/11AcWing_AlgorithmImprovement/DP/001_%E8%83%8C%E5%8C%85%E6%A8%A1%E5%9E%8B.md)**&nbsp;&nbsp;&nbsp;&nbsp;**[Gitee](https://gitee.com/lynbz1018/algorithm/blob/master/11AcWing_AlgorithmImprovement/000DP/001_%E8%83%8C%E5%8C%85%E6%A8%A1%E5%9E%8B.md)**
+  * [数字三角形模型](https://github.com/LYNBZ1018/algorithm/blob/master/11AcWing_AlgorithmImprovement/DP/000_%E6%95%B0%E5%AD%97%E4%B8%89%E8%A7%92%E5%9E%8B%E6%A8%A1%E5%9E%8B%20LIS%20LCS.md)   [最长上升子序列模型](https://github.com/LYNBZ1018/algorithm/blob/master/11AcWing_AlgorithmImprovement/DP/000_%E6%95%B0%E5%AD%97%E4%B8%89%E8%A7%92%E5%9E%8B%E6%A8%A1%E5%9E%8B%20LIS%20LCS.md)**&nbsp;&nbsp;&nbsp;&nbsp;**[Gitee](https://gitee.com/lynbz1018/algorithm/blob/master/11AcWing_AlgorithmImprovement/000DP/000_%E6%95%B0%E5%AD%97%E4%B8%89%E8%A7%92%E5%9E%8B%E6%A8%A1%E5%9E%8B%20LIS%20LCS.md) &nbsp;&nbsp;&nbsp;**x18**
+  * [背包模型](https://github.com/LYNBZ1018/algorithm/blob/master/11AcWing_AlgorithmImprovement/DP/001_%E8%83%8C%E5%8C%85%E6%A8%A1%E5%9E%8B.md)**&nbsp;&nbsp;&nbsp;&nbsp;**[Gitee](https://gitee.com/lynbz1018/algorithm/blob/master/11AcWing_AlgorithmImprovement/000DP/001_%E8%83%8C%E5%8C%85%E6%A8%A1%E5%9E%8B.md)
 
 ​     
 

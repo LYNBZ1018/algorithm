@@ -1,9 +1,9 @@
 ## Algorithm
 ***默认标题为GitHub  || Gitee可以点击右侧的Gitee链接***
 
- 
+   
 
-note中的题号都可以在 **[AcWing](https://www.acwing.com/problem/)** 中搜到
+note中的题号都可以在 **<a target="_blank" href="https://www.acwing.com/problem/">AcWing</a> **中搜到
 
 部分题有限制 需要参加相应活动才可以做题
 
