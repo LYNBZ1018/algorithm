@@ -10,7 +10,7 @@
 
 ​     
 
-* **DFS**
+* **[DFS](https://github.com/LYNBZ1018/algorithm/tree/master/11AcWing_AlgorithmImprovement/001DFS)**
 
   ```markdown
   包括Flood Fill、最短路模型、多源BFS、最小步数模型、双端队列广搜、
@@ -20,7 +20,7 @@
 
 ​       
 
-* **Graphs**
+* **[Graphs](https://github.com/LYNBZ1018/algorithm/tree/master/11AcWing_AlgorithmImprovement/010Graphs)**
 
   ```markdown
   包括单源最短路的建图方式、单源最短路的综合应用、单源最短路的扩展应用、
@@ -30,7 +30,7 @@
 
 ​      
 
-* **Senior data structure**
+* **[SeniorDataStructure](https://github.com/LYNBZ1018/algorithm/tree/master/11AcWing_AlgorithmImprovement/011SeniorDataStructure)**
 
   ```markdown
   包括并查集、树状数组、线段树、可持久化数据结构、平衡树、AC自动机等内容
@@ -38,7 +38,7 @@
 
 ​     
 
-* **Math**
+* **[Math](https://github.com/LYNBZ1018/algorithm/tree/master/11AcWing_AlgorithmImprovement/100Math)**
 
   ```markdown
   包括筛质数、分解质因数、快速幂、约数个数、欧拉函数、同余、矩阵乘法、
@@ -47,7 +47,7 @@
 
 ​      
 
-* **Basic algorithm**
+* **[BasicAlgorithm](https://github.com/LYNBZ1018/algorithm/tree/master/11AcWing_AlgorithmImprovement/101BasicAlgorithm)**
 
   ```markdown
   包括位运算、递推与递归、前缀和与差分、二分、排序、RMQ等内容
